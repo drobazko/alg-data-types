@@ -1,0 +1,391 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Cons$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Cons.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/List$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/List.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Nil$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Nil.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/Main$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/Main.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Branch$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Branch.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Leaf$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Leaf.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Tree$.class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Tree.class
+binary dependencies:
+6 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> /Users/drobazko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Users/drobazko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> /Users/drobazko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> /Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.Cons
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.Cons$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.List
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.List$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.Nil
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt.list.Nil$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Adt.Main
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Adt.Main$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Branch
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Branch$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Leaf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Leaf$
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Tree
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt.tree.Tree$
+used names:
+256 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> &&
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> *
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> +
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> -
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> <=
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> <init>
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> <repeated>
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ==
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> A
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Adt
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Any
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> AnyRef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> B
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Boolean
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> C
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Cons
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Double
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Function1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Function2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> IndexOutOfBoundsException
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Int
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Iterator
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> List
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> MatchError
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Nil
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> None
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Nothing
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Object
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Option
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Predef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Product
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ScalaRunTime
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Seq
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Serializable
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Some
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> String
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> T
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> T0
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> T1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> T2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> Tuple2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> _1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> _2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> _hashCode
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> _root_
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> _toString
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> a
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> acc
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> addPairwise
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> append
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> apply
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> areEqual
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> as
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> asInstanceOf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> b
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> concat
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> drop
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> drop2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> dropWhile
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> dropWhile2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ds
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> eq
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> error
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> f
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> flatMap
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> foldLeft
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> foldLeft2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> foldLeftHelper
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> foldRight
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> getLast
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> h
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> h1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> h2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> hasSubsequence
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> head
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> i
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ints
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> isEmpty
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> isInstanceOf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> l
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> l1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> l2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> list
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> map
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> n
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ne
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ns
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> package
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> prev
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> product
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> reverse
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> runtime
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> scala
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> sub
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> sum
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> sup
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> sys
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> t
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> t1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> t2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> tail
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> toString
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> typedProductIterator
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> unary_!
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> x
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> xs
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> y
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> z
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> zipWith
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> ||
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> %
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> *
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> +
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> -
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> ::
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> <init>
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> <repeated>
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> ==
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> ?0
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> A
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Adt
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Any
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> AnyRef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Array
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> B
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Boolean
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Branch
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> C
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Class
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Cons
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Float
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Function1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Function2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Int
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Leaf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> List
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Main
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Nil
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Nothing
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Object
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Predef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> String
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Tree
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> Unit
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> acc
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> addOne
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> addPairwise
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> append
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> append2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> append3
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> apply
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> collection
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> depth
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> drop
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> dropWhile
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> filter
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> filter1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> flatMap
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> foldLeft
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> foldRight
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> getClass
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> getLast
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> hasSubsequence
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> i
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> immutable
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l3
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l4
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l5
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l6
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> l7
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> length
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> list
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> map
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> maximum
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> n
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> println
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> reverse
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> reverse2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> scala
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> setHead
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> size
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> size2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> t
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> tail
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> toFloat
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> tree
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> v
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> zipWith
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> &&
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> +
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> <init>
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> ==
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> A
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Adt
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Any
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> AnyRef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> B
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Boolean
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Branch
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Function1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Function2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> IndexOutOfBoundsException
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Int
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Iterator
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Leaf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> MatchError
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> None
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Nothing
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Object
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Option
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Predef
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Product
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> RichInt
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> ScalaRunTime
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Serializable
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Some
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> String
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> T
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> T0
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> T1
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> T2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Tree
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> Tuple2
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> _hashCode
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> _root_
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> _toString
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> apply
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> asInstanceOf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> depth
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> eq
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> f
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> fold
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> intWrapper
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> isInstanceOf
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> l
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> left
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> map
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> max
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> maximum
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> package
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> r
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> right
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> runtime
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> scala
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> size
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> t
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> toString
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> tree
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> typedProductIterator
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> v
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> value
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> z
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> ||
+product stamps:
+14 items
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/Main$.class -> lastModified(1496342905000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/Main.class -> lastModified(1496342905000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Cons$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Cons.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/List$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/List.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Nil$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/list/Nil.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Branch$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Branch.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Leaf$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Leaf.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Tree$.class -> lastModified(1496342631000)
+/Users/drobazko/IdeaProjects/alg-data-types/target/scala-2.12/classes/Adt/tree/Tree.class -> lastModified(1496342631000)
+source stamps:
+3 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> hash(f3896f9559b5c04ee7d12b258604874e3ae7d8ab)
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> hash(68776ea34e44dfec4388cec5c2bbbf5d9c6f056a)
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> hash(63ae8577b6f7aea7e18900cb00fb8c18aaa44269)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
+/Users/drobazko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/drobazko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Int
+internal apis:
+3 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwv58qYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABDc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyJNrjXQABm5vdGlmeXNxAH4ADHEOnI90AA5oYXNTdWJzZXF1ZW5jZXNxAH4ADOCBmp50AAF4c3EAfgAMbRPrFXQAA05pbHNxAH4ADI8Jy3N0AAR3YWl0c3EAfgAMbu73OXQACWZvbGRSaWdodHNxAH4ADOOgmed0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADI3GAkV0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6t+tj3QAA21hcHNxAH4ADDQdbqN0AAlkcm9wV2hpbGVzcQB+AAxoP7ATdAAMcHJvZHVjdEFyaXR5c3EAfgAM0oC5HHQABmVxdWFsc3NxAH4ADF+LB2N0AAdhcHBlbmQzc3EAfgAMbjLgP3QAB2dldExhc3RzcQB+AAxWmlqOdAAEaGVhZHNxAH4ADMakt2V0AAxhc0luc3RhbmNlT2ZzcQB+AAz6TOfldAAMc3luY2hyb25pemVkc3EAfgAM6g7sL3QABmNvbmNhdHNxAH4ADGFD+Fd0AAhyZXZlcnNlMnNxAH4ADD9IgPx0AA0kaXNJbnN0YW5jZU9mc3EAfgAME43NJXQABHN1bTJzcQB+AAwjzj++dAAHemlwV2l0aHNxAH4ADEPbPkh0AARhZGQxc3EAfgAMmzrGk3QACGNhbkVxdWFsc3EAfgAMDTFKtHQABHRhaWxzcQB+AAwfw34odAANcHJvZHVjdFByZWZpeHNxAH4ADCeLP4B0AARDb25zc3EAfgAMuOP26HQACW5vdGlmeUFsbHNxAH4ADPkz1GF0AARkcm9wc3EAfgAMS1aI13QADGlzSW5zdGFuY2VPZnNxAH4ADCC5oUp0AAdyZXZlcnNlc3EAfgAMrDKFynQABmZpbHRlcnNxAH4ADK00sEZ0AAVkcm9wMnNxAH4ADMFXfyd0AApkcm9wV2hpbGUyc3EAfgAM60+eEHQABjxpbml0PnNxAH4ADOnp4uZ0AAVhcHBseXNxAH4ADGc+/k10AAdmbGF0TWFwc3EAfgAM5R5IjnQAAj09c3EAfgAM3SFMYnQABWNsb25lc3EAfgAMpVVv9XQABiRpbml0JHNxAH4ADOxl2gR0AAlmb2xkTGVmdDJzcQB+AAxa2yS9dAAIcHJvZHVjdDJzcQB+AAyNCp7odAALYWRkUGFpcndpc2VzcQB+AAzgn9WzdAAEY29weXNxAH4ADE7hn4p0AAZhZGRPbmVzcQB+AAxWS3DodAAIdG9TdHJpbmdzcQB+AAy0uL2edAAGbGVuZ3Roc3EAfgAMUEJ5G3QAEmZvbGRSaWdodEZvckZpbHRlcnNxAH4ADFh8sCl0AAIhPXNxAH4ADHDRQTx0AAhnZXRDbGFzc3NxAH4ADPSnMyR0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAyFq3h0AARMaXN0c3EAfgAMKrqVTXQACGZvbGRMZWZ0c3EAfgAMcSD5VnQAAm5lc3EAfgAMli0OhXQABGluaXRzcQB+AAwCJ7qWdAACZXFzcQB+AAy6vc0qdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMOPxqfnQAA3N1bXNxAH4ADGNfckF0AAdmaWx0ZXIxc3EAfgAMnzkWQHQAAiMjc3EAfgAM21DUd3QACGZpbmFsaXplc3EAfgAMNEC1hnQADnByb2R1Y3RFbGVtZW50c3EAfgAMKcR6E3QACGhhc2hDb2Rlc3EAfgAMY489ZHQAB3Byb2R1Y3RzcQB+AAzJVdbedAAHc2V0SGVhZHNxAH4ADM8zX0h0AAZhcHBlbmRzcQB+AAxZ3zXldAAHYXBwZW5kMnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0AA1BZHQubGlzdC5MaXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AKJMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgCfTAAKdXBwZXJCb3VuZHEAfgCwTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgCoAAAAAHQAD0FkdC5saXN0Lkxpc3QuQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDEdXEAfgCtAAAAAHNxAH4AtXQAA0FueXEAfgC9fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUNvdmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AzXQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgC3c3EAfgDVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJ1MAAlpbmhlcml0ZWRxAH4AnUwAB3BhcmVudHNxAH4AnXhxAH4AuHNxAH4A1XVxAH4AmAAAAABzcQB+ANV1cQB+AJgAAAAAc3EAfgDVdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+ALV0AAZPYmplY3RzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDdAAEamF2YXNxAH4Aw3QABGxhbmdxAH4AyHNxAH4AtXEAfgDLc3EAfgC7c3EAfgC+dXEAfgDBAAAAAnNxAH4Aw3EAfgDGcQB+AMhzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAdAAMQWR0Lmxpc3QuTmlsdXEAfgCtAAAAAH5xAH4A0HQABk1vZHVsZXVxAH4A0wAAAABzcQB+ANVxAH4A2XNxAH4A1XNxAH4A23NxAH4A1XVxAH4AmAAAAABzcQB+ANV1cQB+AJgAAAAAc3EAfgDVdXEAfgDiAAAAB3NxAH4AtXQADFNlcmlhbGl6YWJsZXNxAH4Au3NxAH4AvnVxAH4AwQAAAAJzcQB+AMNxAH4AxnEAfgDIc3EAfgC1cQB+AQRzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDcQB+AOpzcQB+AMN0AAJpb3EAfgDIc3EAfgC1dAAHUHJvZHVjdHEAfgEFc3EAfgC1dAAGRXF1YWxzcQB+AQVzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ALZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALdzcQB+ALV0AARMaXN0c3EAfgC7c3EAfgC+dXEAfgDBAAAAA3NxAH4Aw3QAA0FkdHNxAH4Aw3QABGxpc3RxAH4AyHVxAH4A4gAAAAFzcQB+ALVxAH4AunEAfgEFc3EAfgC1cQB+AOVzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDcQB+AOpzcQB+AMNxAH4A7HEAfgDIc3EAfgC1cQB+AMtxAH4BBXNxAH4AmnEAfgCndXEAfgCoAAAAAHNxAH4AqgB0AA1BZHQubGlzdC5Db25zdXEAfgCtAAAAAXNxAH4Ar3VxAH4AqAAAAAB0AA9BZHQubGlzdC5Db25zLkFxAH4AuXVxAH4ArQAAAABxAH4AynEAfgDOfnEAfgDQdAAIQ2xhc3NEZWZ1cQB+ANMAAAAAc3EAfgDVcQB+ANlzcQB+ANVzcQB+ANtzcQB+ANV1cQB+AJgAAAAAc3EAfgDVdXEAfgCYAAAAAHNxAH4A1XVxAH4A4gAAAAdzcQB+ALVxAH4BBHNxAH4Au3NxAH4AvnVxAH4AwQAAAAJzcQB+AMNxAH4AxnEAfgDIc3EAfgC1cQB+AQRzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDcQB+AOpzcQB+AMN0AAJpb3EAfgDIc3EAfgC1cQB+ARFxAH4BP3NxAH4AtXQABkVxdWFsc3EAfgE/c3EAfgEUc3EAfgC1cQB+ARhzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDdAADQWR0c3EAfgDDdAAEbGlzdHEAfgDIdXEAfgDiAAAAAXNyABZ4c2J0aS5hcGkuUGFyYW1ldGVyUmVmP9jjOQAsc7ACAAFMAAJpZHEAfgANeHEAfgC3dAAPQWR0Lmxpc3QuQ29ucy5Bc3EAfgC1cQB+AOVzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDcQB+AOpzcQB+AMNxAH4A7HEAfgDIc3EAfgC1cQB+AMtxAH4BP3NxAH4AmnEAfgCndXEAfgCoAAAAAHNxAH4AqgB0AA1BZHQubGlzdC5MaXN0dXEAfgCtAAAAAHEAfgD3dXEAfgDTAAAAAXQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NxAH4A1XEAfgDZc3EAfgDVc3EAfgDbc3EAfgDVdXEAfgCYAAAAAHNxAH4A1XVxAH4AmAAAAABzcQB+ANV1cQB+AOIAAAACc3EAfgC1cQB+AOVzcQB+ALtzcQB+AL51cQB+AMEAAAADc3EAfgDDcQB+AOpzcQB+AMNxAH4A7HEAfgDIc3EAfgC1cQB+AMtzcQB+ALtzcQB+AL51cQB+AMEAAAACc3EAfgDDcQB+AMZxAH4AyHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACEFkdC5saXN0c3EAfgF+dAADQWR0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcZPh++HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvZHJvYmF6a28vSWRlYVByb2plY3RzL2FsZy1kYXRhLXR5cGVzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTziW+VWbXATufRKyWGBIdOOufYqw==
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTliMgAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0HlxLXQABm5vdGlmeXNxAH4ADA1jp/10AAR3YWl0c3EAfgAMQXWKpnQADSRhc0luc3RhbmNlT2ZzcQB+AAwIPv0idAAGZXF1YWxzc3EAfgAMgZXur3QADGFzSW5zdGFuY2VPZnNxAH4ADF9+nfh0AAxzeW5jaHJvbml6ZWRzcQB+AAy74nY0dAANJGlzSW5zdGFuY2VPZnNxAH4ADM0OU4N0AARtYWluc3EAfgAMOsiwAnQACW5vdGlmeUFsbHNxAH4ADLWJdKR0AAxpc0luc3RhbmNlT2ZzcQB+AAyb2N+HdAACPT1zcQB+AAxrTIE2dAAFY2xvbmVzcQB+AAxUiiKydAAETWFpbnNxAH4ADAuVKz50AAh0b1N0cmluZ3NxAH4ADMVTkGB0AAIhPXNxAH4ADJp7bhN0AAhnZXRDbGFzc3NxAH4ADJyr6bZ0AAJuZXNxAH4ADHs2uhV0AAJlcXNxAH4ADJgYzU10AAIjI3NxAH4ADJlOVkl0AAhmaW5hbGl6ZXNxAH4ADFKVhEZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAhBZHQuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANBZHRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxk/LWwdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGh3bqNORN/sQ4jOxcK7v12cbwVq
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwk1WDFQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwM0PGdHQABm5vdGlmeXNxAH4ADBJzUUV0AAR3YWl0c3EAfgAMfV3uMXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMypCfH3QADSRhc0luc3RhbmNlT2ZzcQB+AAyVRUNSdAAEc2l6ZXNxAH4ADGMVnHJ0AANtYXBzcQB+AAwzLg7OdAAMcHJvZHVjdEFyaXR5c3EAfgAMSTVFbHQABmVxdWFsc3NxAH4ADIsiRRl0AAhnZW5lcmF0ZXNxAH4ADKFKVbF0AAxhc0luc3RhbmNlT2ZzcQB+AAwjsSkedAAMc3luY2hyb25pemVkc3EAfgAMmAVR7nQABGxlZnRzcQB+AAz2mUaDdAAEVHJlZXNxAH4ADJQWAvZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMbU3en3QABGZvbGRzcQB+AAw0FeV5dAAIY2FuRXF1YWxzcQB+AAyHrn1udAAETGVhZnNxAH4ADDdlL/V0AA1wcm9kdWN0UHJlZml4c3EAfgAMWz+YinQACW5vdGlmeUFsbHNxAH4ADMVRB9B0AAxpc0luc3RhbmNlT2ZzcQB+AAw+BNy+dAAHbWF4aW11bXNxAH4ADDHuZEV0AAY8aW5pdD5zcQB+AAyexShAdAACPT1zcQB+AAxldhZadAAFY2xvbmVzcQB+AAy4dknWdAAGJGluaXQkc3EAfgAMouO8PHQABkJyYW5jaHNxAH4ADKkwcRp0AARjb3B5c3EAfgAMKrDWhnQABXNpemUyc3EAfgAMIggVSnQACHRvU3RyaW5nc3EAfgAMycVrvHQABWRlcHRoc3EAfgAMdNQ6RXQAAiE9c3EAfgAMhmUHI3QACGdldENsYXNzc3EAfgAMtUyCoXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMgWucMHQAAm5lc3EAfgAMERrwf3QABXZhbHVlc3EAfgAMsP6AGXQAAmVxc3EAfgAMbcDvj3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCYLvi50AAVyaWdodHNxAH4ADCPj8dZ0AAIjI3NxAH4ADDSCOKR0AAhmaW5hbGl6ZXNxAH4ADF14su90AA5wcm9kdWN0RWxlbWVudHNxAH4ADDujta50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0AA1BZHQudHJlZS5UcmVldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AHBMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBtTAAKdXBwZXJCb3VuZHEAfgB+TAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgB2AAAAAHQAD0FkdC50cmVlLlRyZWUuQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCFc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5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
+external apis:
+0 items
+source infos:
+3 items
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/List.scala -> 
+AAAAAAAAAAA=
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/Users/drobazko/IdeaProjects/alg-data-types/src/main/scala/Tree.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTV5jZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTdhLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTg64t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTw24h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGT4fvh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGT8tbB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9kcm9iYXprby9JZGVhUHJvamVjdHMvYWxnLWRhdGEtdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
