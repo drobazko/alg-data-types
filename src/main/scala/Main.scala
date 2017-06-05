@@ -2,6 +2,8 @@ package Adt
 
 import Adt.list._
 import Adt.tree._
+import Adt.expr._
+import Adt.sorting._
 
 object Main {
   def main(args: Array[String]) = {
@@ -46,6 +48,10 @@ object Main {
     println(Tree.maximum(t))
     println(Tree.depth(t))
     println(Tree.map(t)(_ + 1000))
-    println("This is the final statement")
+    println(Var("Variable"))
+    println(Sorting.merge(Array(1,3,4), Array(2,5)).deep.mkString("\n"))
+    println()
+    println(Sorting.merge2(Array(2,5), Array(1,3,4)).deep.mkString("\n"))
+
   }
 }

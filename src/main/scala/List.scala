@@ -192,3 +192,5 @@ def sum(ints: List[Int]): Int = ints match { // A function that uses pattern mat
     }
   }
 }
+
+// Cons(4, Cons(2, Cons(5, Cons(1, Nil))))
